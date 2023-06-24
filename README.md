@@ -1,2 +1,14 @@
-# Nodejs_Docker.Dev
-Create a simple Node.js app add Dockerfile to build Node image, run image set a local envs use Docker compose and configure CI/CD app using GitHub Actions
+ 
+ ----------<<----------Node.js---------->>-----------
+
+ Create a simple Node.js application
+
+ Create a new Dockerfile which contains instructions required to build a Node.js image
+
+ Run the newly built image as a container
+
+ Set up a local development environment to connect a database to the container
+
+ Use Docker Compose to run the Node.js application
+
+ Configure a CI/CD pipeline for your application using GitHub Actions.

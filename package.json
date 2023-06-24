@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_docker.dev",
+  "version": "1.0.0",
+  "description": "----------<<----------Node.js---------->>-----------",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AramEvin/Nodejs_Docker.Dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AramEvin/Nodejs_Docker.Dev/issues"
+  },
+  "homepage": "https://github.com/AramEvin/Nodejs_Docker.Dev#readme",
+  "dependencies": {
+    "ronin-mocks": "^0.1.11",
+    "ronin-server": "^0.1.3"
+  }
+}
